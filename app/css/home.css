@@ -291,6 +291,7 @@
 .auto .autoPost {margin-top:17px;}
 .autoPost-tit {background-color:#eaeff7;}
 .autoPost-tit a{display:block;text-align:center;height:38px;line-height:38px;font-size:15px;font-weight:bold;color:#537da7;}
+.autoList {}
 
 .marry .partBox-header {border-bottom-color:#f8c4d8;}
 .marry .partBox-tit {color:#e83d7d;}
